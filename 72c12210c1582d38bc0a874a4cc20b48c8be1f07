@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAYn///1Y\u003d",
+        "filename": "build.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 2
+      },
+      "writtenOn": "2012-09-28T08:06:13Z",
+      "side": 1,
+      "message": "Vendor should be asus instead of samsung\n\nDEVICE_CM_DIR\u003d$ANDROID_BUILD_TOP/device/asus/${BOARD}",
+      "revId": "72c12210c1582d38bc0a874a4cc20b48c8be1f07",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAYn///vY\u003d",
+        "filename": "build.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 169,
+      "author": {
+        "id": 2
+      },
+      "writtenOn": "2012-09-28T08:06:13Z",
+      "side": 1,
+      "message": "Target should be grouper instead of tuna\n\ntargets\u003d(grouper)",
+      "revId": "72c12210c1582d38bc0a874a4cc20b48c8be1f07",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
